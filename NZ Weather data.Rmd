@@ -3,7 +3,7 @@ title: 'Retrieving Historic Weather Data for New Zealand'
 author: 'Reean Liao'
 date: 'Feb 2017'
 output: 
-  html_document:
+  rmarkdown::github_document
     toc: true
 ---
 
